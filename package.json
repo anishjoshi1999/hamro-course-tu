@@ -1,0 +1,30 @@
+{
+  "name": "hamro-course-tu",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anishjoshi1999/hamro-course-tu.git"
+  },
+  "keywords": [],
+  "author": "https://github.com/anishjoshi1999",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anishjoshi1999/hamro-course-tu/issues"
+  },
+  "homepage": "https://github.com/anishjoshi1999/hamro-course-tu#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "body-parser": "^1.20.1",
+    "dotenv": "^16.0.3",
+    "ejs-mate": "^4.0.0",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "mongoose": "^6.8.2",
+    "passport": "^0.6.0",
+    "passport-local": "^1.0.0"
+  }
+}
